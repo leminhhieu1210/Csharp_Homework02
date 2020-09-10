@@ -1,0 +1,10 @@
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\obj\Debug\AppQlySach03.csprojAssemblyReference.cache
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\obj\Debug\AppQlySach.Form1.resources
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\obj\Debug\AppQlySach.Properties.Resources.resources
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\obj\Debug\AppQlySach03.csproj.GenerateResource.cache
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\obj\Debug\AppQlySach03.csproj.CoreCompileInputs.cache
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\bin\Debug\AppQlySach.exe.config
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\bin\Debug\AppQlySach.exe
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\bin\Debug\AppQlySach.pdb
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\obj\Debug\AppQlySach.exe
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\AppQlySach03\obj\Debug\AppQlySach.pdb

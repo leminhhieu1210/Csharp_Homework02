@@ -1,0 +1,13 @@
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\bin\Debug\netcoreapp3.1\QlySach.exe
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\bin\Debug\netcoreapp3.1\QlySach.deps.json
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\bin\Debug\netcoreapp3.1\QlySach.runtimeconfig.json
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\bin\Debug\netcoreapp3.1\QlySach.runtimeconfig.dev.json
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\bin\Debug\netcoreapp3.1\QlySach.dll
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\bin\Debug\netcoreapp3.1\QlySach.pdb
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\obj\Debug\netcoreapp3.1\QlySach.csprojAssemblyReference.cache
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\obj\Debug\netcoreapp3.1\QlySach.csproj.CoreCompileInputs.cache
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\obj\Debug\netcoreapp3.1\QlySach.AssemblyInfoInputs.cache
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\obj\Debug\netcoreapp3.1\QlySach.AssemblyInfo.cs
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\obj\Debug\netcoreapp3.1\QlySach.dll
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\obj\Debug\netcoreapp3.1\QlySach.pdb
+E:\IT\C#\LapTrinhTrucQuan\Lesson02\QlySach\QlySach\obj\Debug\netcoreapp3.1\QlySach.genruntimeconfig.cache
